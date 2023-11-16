@@ -1,0 +1,16 @@
+1.- Ingresar en appsettings.json la conexion a la base de datos:
+
+	{
+      "Logging": {
+        "LogLevel": {
+          "Default": "Information",
+          "Microsoft.AspNetCore": "Warning"
+        }
+      },
+      "AllowedHosts": "*",
+      "ConnectionStrings": {
+        "cadenaSQL": "Server=DESKTOP-3TMFP4V; DataBase=EBillDB; Trusted_Connection=true; TrustServerCertificate=true;"
+      }
+    }
+
+2.- Se crean las variables para la conexion a la DB

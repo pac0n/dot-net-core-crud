@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Unoamuchos
+build_property.RootNamespace = Unoamuchos
+build_property.ProjectDir = C:\Users\Fuser\source\repos\Unoamuchos\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Fuser\source\repos\Unoamuchos
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Ebill/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWJpbGxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Ebill/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWJpbGxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Ebill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWJpbGxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Ebill/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWJpbGxcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Ebill/_CreateItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWJpbGxcX0NyZWF0ZUl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Ebill/_EditItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWJpbGxcX0VkaXRJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fuser/source/repos/Unoamuchos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o0u0k9l6id

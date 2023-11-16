@@ -1,0 +1,18 @@
+﻿@model Items
+
+<tr id="rowitem_num_@Model.ItemIndex">
+    <td>
+        @Model.ItemIndex
+        <input type="hidden" name="Items[@Model.ItemIndex].ItemIndex" value="@Model.ItemIndex" />
+    </td>
+    <td>
+        <input type="text" name="Items[@Model.ItemIndex].ProductName" value="@Model.ProductName" />
+    </td>
+    <td>
+        <input type="text" name="Items[@Model.ItemIndex].Price" value="@Model.Price" />
+    </td>
+    <td>
+        <input type="text" name="Items[@Model.ItemIndex].Quantity" value="@Model.Quantity" />
+    </td>
+    <td><button id="num_@Model.ItemIndex" type="button" class="btn btn-sm bg-danger text-white remove_item">Remove</button></td>
+</tr>
